@@ -17,6 +17,7 @@ in
     jq        # JSON on the command line
     lazygit
     neovim
+    gh        # GitHub CLI
 
     # Font
     nerd-fonts.hack

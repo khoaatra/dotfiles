@@ -27,11 +27,13 @@
 
     brews = [
       "herdr"
+      "node"
     ];
 
     casks = [
       "wezterm"
       "claude-code"
+      "opensuperwhisper"
     ];
   };
 }

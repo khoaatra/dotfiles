@@ -18,6 +18,7 @@ in
     lazygit
     neovim
     gh        # GitHub CLI
+    python3
 
     # Font
     nerd-fonts.hack
